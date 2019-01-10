@@ -2,11 +2,11 @@
 ![SectorD](https://github.com/omkbd/Sector/blob/master/Picture/SectorD.jpg)
 ![SectorD-layout](https://github.com/omkbd/Sector/blob/master/Picture/SectorD-layout.png)
 
-##PCB
+## PCB
 準備中
 
-##Case
+## Case
 https://github.com/omkbd/Sector/blob/master/SectorD/Case/sectord-200200.ai
 
-##Firmware
+## Firmware
 準備中

@@ -3,11 +3,11 @@
 ![SectorH-layout](https://github.com/omkbd/Sector/blob/master/Picture/SectorH-layout.png)
 
 
-##PCB
+## PCB
 準備中
 
-##Case
+## Case
 https://github.com/omkbd/Sector/blob/master/SectorH/Case/sectorh-200200.ai
 
-##Firmware
+## Firmware
 Helix5行版と同様です。
