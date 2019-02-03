@@ -3,7 +3,11 @@
 ![SectorLogo](https://github.com/omkbd/Sector/blob/master/Picture/Sector-logo.png)
 
 Sectorは放射状の配列をしたキーボードです。  
-現在はSectorDとSectorHの2種類があります。
+現在はSectorDととSectorDとSectorHの3種類があります。
+
+## SectorC
+![SectorC](https://github.com/omkbd/Sector/blob/master/Picture/SectorC.jpg)
+![SectorC-layout](https://github.com/omkbd/Sector/blob/master/Picture/SectorC-layout.png)
 
 ## SectorD
 ![SectorD](https://github.com/omkbd/Sector/blob/master/Picture/SectorD.jpg)
